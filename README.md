@@ -1,1 +1,23 @@
-# cafeteria-universitaria
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Cafeteria Universitaria</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #fff; color: #333; }
+    nav { background: #6b4226; padding: 10px; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    h1 { text-align: center; color: #6b4226; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">Menu</a>
+    <a href="#">Contacto</a>
+  </nav>
+  <h1>Bienvenidos a Cafe Universitario</h1>
+  <p style="text-align:center;">El mejor cafe para tu dia ?</p>
+</body>
+</html>
+
